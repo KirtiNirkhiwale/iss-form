@@ -1,15 +1,15 @@
 Available Scripts
 
-1. In the project directory, run:
-a) npm install, 
-b) npm start, 
-c) open link - http://localhost:3000 
+In the project directory, run:
+1. npm install, 
+2. npm start, 
+3. open link - http://localhost:3000 
 
 
-2. This repository also contain build folder. Follow below steps to run build -
+This repository also contain build folder. Follow below steps to run build -
 
 In project folder run -
-a) npm install http-server -g, 
-b) cd build, 
-c) http-server,
-d) open link - http://localhost:8080
+1. npm install http-server -g, 
+2. cd build, 
+3. http-server,
+4. open link - http://localhost:8080
