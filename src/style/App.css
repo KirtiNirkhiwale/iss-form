@@ -1,0 +1,46 @@
+.App-header {
+	  background-color: #7ba5be;
+	  height: 100px;
+	  padding: 20px;
+	  color: white;
+}
+
+.iss-col .main-field { 
+	cursor: -webkit-grab;
+	padding: 20px 10px;
+	border: 1px dashed #7ba5be;
+	min-height: 150px;
+}
+
+.select-iss, .text-iss {
+	width: 90%;
+}
+
+.field-select {
+	cursor: pointer;
+	border: 1px solid #7ba5be;
+}
+
+.iss-button {
+	background-color: #7ba5be !important;
+	border: #7ba5be !important;
+}
+
+.add-new-field {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.add-new-btn {
+	background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+.modal {
+	display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
